@@ -1,0 +1,14 @@
+Index: src/Main.java
+===================================================================
+diff --git a/src/Main.java b/src/Main.java
+new file mode 100644
+--- /dev/null	(revision 089d740556d60a007c948b8b4a40d0f021a57518)
++++ b/src/Main.java	(revision 089d740556d60a007c948b8b4a40d0f021a57518)
+@@ -0,0 +1,6 @@
++public class Main {
++    public static void main(String[] args) {
++
++        System.out.println("Hello, World!");
++    }
++}
+\ No newline at end of file
