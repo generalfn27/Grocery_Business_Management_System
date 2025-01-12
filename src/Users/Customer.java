@@ -18,7 +18,6 @@ public class Customer {
         // Default constructor, you can initialize default values if needed
     }
 
-
     // Getters and setters
     public String getUsername() {
         return username;
